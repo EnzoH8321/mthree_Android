@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> <a href="google.com"> An English rock band that formed in Liverpool in 1960. </a>  </item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>American rock band from LA</item>
+        <item>British rock band</item>
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>American rock band from LA</item>
+        <item>British rock band</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rolling Stones</item>
+    </string-array>
+
+</resources>
